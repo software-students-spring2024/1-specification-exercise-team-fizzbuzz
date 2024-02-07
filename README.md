@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 [Dhiyaa Al Jorf](https://github.com/DoodyShark)
 [Firas Darweesh](https://github.com/FirasBDarwish)
-[shubhi]()
+[Shubhi Upadhyay](https://github.com/shubhiupa19)
 
 ## Stakeholders
 
