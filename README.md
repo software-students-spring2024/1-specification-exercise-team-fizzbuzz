@@ -4,7 +4,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Dhiyaa Al Jorf](https://github.com/DoodyShark)
+[Firas Darweesh](https://github.com/FirasBDarwish)
+[shubhi]()
 
 ## Stakeholders
 
