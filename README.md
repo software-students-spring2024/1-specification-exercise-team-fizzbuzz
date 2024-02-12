@@ -17,6 +17,7 @@ A little exercise to get started with the specification phase of the software de
     - I'm not sure if they’d like this gift or not, their taste and preference.
     - figuring out their sizes and measurements **– esp the shoes, can’t get them shoes >:( –** is very difficult.
     - I like to be shown online links for easy and cheap purchase
+    - I take extra credit in finding a gift that connects us (or bridges our interests)
 - When I'm splitting a gift among my other friends ...
     - it poses a lot of issues with payment
     - people keep opting in and out, and the person who pays has to keep a manual tally of who's contributing and who paid already
@@ -24,6 +25,13 @@ A little exercise to get started with the specification phase of the software de
     - help find connections between friends.
     - help me get more inspiration
     - teach me about their vibes
+    - they are very telling of a person
+    - something like that can help inspire me to get gifts for someone because I get a feel for their personality/aesthetic
+- I find it superficial and unnatural to get a person I don't quite know a gift of (for example) a character from a show/film they like if I didn't come to learn of that myself. I don't want to be 'told' what to get a person by a friend or otherwise; it is nicer to make that discovery and feel like you're learning about a person.
+- It is important to be able to find the easiest, fastest, cheapest places to get the gifts as it would save me time looking for where I can find something I saw online.
+- On WeChat, there is a feature where you can scan items, clothing, accessories, etc. you find daily and be given links to where you can buy something that matches to that item.
+- When splitting up the cost of a gift amongst more than one gifter, I often find that one person bears the weight of buying the gift and then isn't paid back by everyone involved, so a way to guarantee the price can be split amongst more than one person would be helpful
+    - There are restaurants in Abu Dhabi that allow you to split the bill across every one at the table so something like that would be great.
 
 ### Hamdan Zoghbor:
 - Friends sometimes end up buying similar/repeated gifts.
@@ -38,36 +46,6 @@ A little exercise to get started with the specification phase of the software de
 - Would be very nice if there's a tool to recommend what I should buy given certain properties of the gift giver.
 - DISCOUNTS! I love saving money so I would like if the tool finds me the cheapest options.
 - I keep receiving generic gifts I hate and which I'd rather get the monetary value of instead.
-
-... 
-
-
--  if I have a friend and I see they like this show, it seems superficial. You like the show friends, she doesn’t know but if you find out it seems weird
--  fine if you don’t know them
-
--  finding connections between you,
--  Pinterest boards is very telling of a person
--  I get more inspiration
--  learning about their vibe
-
--  it matters less if you have things in common and it’s finding connection
--  I know she likes a certain quirk or whatever
--  even if I don’t get it, when you get gifts, the goal is to make the other person happiest, so it doesn’t matter as much if I can relate to it or not but it’s more what they’re feeling and there’s bonus points if it’s a reference or something you share
-
--  direct links, looking for things online (finding the easiest, fastest, cheapest places to get the gifts would really add a bonus, to make a bit more of a difference), flaking about the app would it give you a hint what to get your gift
-
-- On WeChat, they used to scan a QR code, it also has
-- We chat, one recognized item and it shows links to where to get it from
-
--  if people are paying cash, cards, how to split that up
--  person who buys that gift, there are issues with someone being paid back the money
--  it’s usually how to pay people back, in Abu Dhabi restaurant they have split the bill
-
--  it would be cool if people have incentives to write what they are going to get
--  in order to build people’s profiles, you want doc martens or something, if I go out it on your profile, it would increase the accuracy of who you are. There should be an incentive to increase that
-
--  nothing else to add
-
 
 ## Product Vision Statement
 
@@ -112,6 +90,10 @@ Treasure Trove aims to revolutionize gift-giving into an enjoyable, collaborativ
 
 ![UML activity diagram showning how to create an event](imgs/UML4.webp "Creating events")
 
+## Wireframe
+
+[Link to wireframe](https://www.figma.com/file/7TXfUed5dSXl66ay38D9sf/Project-1-Prototype?type=design&node-id=58%3A1072&mode=design&t=8CUCXajHT4bHui7x-1)
+
 ## Clickable Prototype
 
-https://www.figma.com/proto/7TXfUed5dSXl66ay38D9sf/Project-1-Prototype?type=design&node-id=10-819&t=vOK0tOavvG5I2vVY-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=10%3A819&mode=design
+[Link to prototype](https://www.figma.com/proto/7TXfUed5dSXl66ay38D9sf/Project-1-Prototype?type=design&node-id=10-819&t=vOK0tOavvG5I2vVY-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=10%3A819&mode=design)
