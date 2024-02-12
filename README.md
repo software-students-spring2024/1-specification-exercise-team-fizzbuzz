@@ -49,7 +49,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-Treasure Trove aims to revolutionize gift-giving into an enjoyable, collaborative journey of personalized discovery.
+To revolutionize gift-giving into an enjoyable, collaborative journey of personalized discovery.
 
 
 ## User Requirements
